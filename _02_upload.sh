@@ -1,0 +1,1 @@
+curl -F file=@/var/log/syslog http://localhost:8001/v1/upload
